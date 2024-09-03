@@ -1,9 +1,6 @@
 $(document).ready(function(){
-  $('.slick-slider-container').slick({
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    autoplay: true,
-    autoplaySpeed: 2000,
+  $('.test_parent_bnnr').slick({
+
   });
 });
 
